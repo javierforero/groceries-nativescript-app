@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/javierforero/code/Groceries2/platforms/android/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/javierforero/.android/build-cache/80668a818d5fcf509a0b72d726dfb10ad6f88bef/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/javierforero/code/Groceries2/platforms/android/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/Users/javierforero/.android/build-cache/10f82cdcad2e2270bacd0d3f47da29a5065204b0/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/javierforero/code/Groceries2/platforms/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/javierforero/.android/build-cache/80668a818d5fcf509a0b72d726dfb10ad6f88bef/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/javierforero/code/Groceries2/platforms/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/javierforero/.android/build-cache/80668a818d5fcf509a0b72d726dfb10ad6f88bef/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/javierforero/code/Groceries2/platforms/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/javierforero/.android/build-cache/80668a818d5fcf509a0b72d726dfb10ad6f88bef/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/javierforero/code/Groceries2/platforms/android/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/javierforero/.android/build-cache/80668a818d5fcf509a0b72d726dfb10ad6f88bef/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/javierforero/code/Groceries2/platforms/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/javierforero/.android/build-cache/80668a818d5fcf509a0b72d726dfb10ad6f88bef/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/javierforero/code/Groceries2/platforms/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/javierforero/.android/build-cache/80668a818d5fcf509a0b72d726dfb10ad6f88bef/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/javierforero/code/Groceries2/platforms/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/javierforero/.android/build-cache/80668a818d5fcf509a0b72d726dfb10ad6f88bef/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/javierforero/code/Groceries2/platforms/android/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/javierforero/.android/build-cache/80668a818d5fcf509a0b72d726dfb10ad6f88bef/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/javierforero/code/Groceries2/platforms/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/javierforero/.android/build-cache/80668a818d5fcf509a0b72d726dfb10ad6f88bef/output/res/color-v23/abc_tint_seek_thumb.xml"
+    }
+]
