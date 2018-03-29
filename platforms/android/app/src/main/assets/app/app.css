@@ -3,6 +3,8 @@
 Page {
     background-color: white;
     font-size: 15;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 TextField {
     padding: 15;
@@ -13,4 +15,16 @@ Button {
     padding: 20;
     background-color: tomato;
     color: white;
+}
+
+.small-spacing {
+    margin: 5;
+}
+
+.medium-spacing {
+    margin: 10;
+}
+
+.add-bar {
+    background-color: tomato;
 }

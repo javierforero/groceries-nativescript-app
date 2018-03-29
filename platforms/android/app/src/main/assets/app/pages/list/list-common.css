@@ -1,6 +1,9 @@
 .add-bar {
-  background-color: #CB1D00;
+  background-color: tomato;
   padding: 5 10;
+  color: white;
+  font-size: 30;
+  text-decoration: none;
 }
 .add-bar Image {
   height: 15;
