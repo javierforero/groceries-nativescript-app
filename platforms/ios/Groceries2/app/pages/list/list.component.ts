@@ -2,6 +2,7 @@ import { Component, ElementRef, OnInit, ViewChild } from "@angular/core";
 import { Grocery } from "../../shared/grocery/grocery";
 import { GroceryListService } from "../../shared/grocery/grocery-list.service";
 import { TextField } from "tns-core-modules/ui/text-field";
+import * as SocialShare from "nativescript-social-share";
 
 @Component({
     selector: "list",
@@ -14,16 +15,22 @@ import { TextField } from "tns-core-modules/ui/text-field";
 export class ListComponent implements OnInit {
     groceryList: Array<Grocery> = [];
     grocery = "";
+    isLoading = true;
+    listLoaded = false;
+
     @ViewChild("groceryTextField") groceryTextField: ElementRef;
 
     constructor(private groceryListService: GroceryListService) {}
 
     ngOnInit() {
+        this.isLoading = true;
         this.groceryListService.load()
             .subscribe(loadedGroceries => {
                 loadedGroceries.forEach((groceryObject) => {
                     this.groceryList.unshift(groceryObject);
-                })
+                });
+                this.isLoading = false;
+                this.listLoaded = true;
             })
     }
 
@@ -51,6 +58,27 @@ export class ListComponent implements OnInit {
                     this.grocery = "";
                 }
             )
+    }
+
+    delete(grocery: Grocery) {
+      this.groceryListService.delete(grocery.id)
+          .subscribe(
+              success => {
+                  
+                  let indexDelete = this.groceryList.indexOf(grocery);
+                  this.groceryList.splice(indexDelete, 1);
+              },
+              () => {
+                 alert("could not delete");
+              });
+    }
+
+    share() {
+        let listString = this.groceryList
+            .map(grocery => grocery.name)
+            .join(", ")
+            .trim();
+        SocialShare.shareText(listString);
     }
 
 }

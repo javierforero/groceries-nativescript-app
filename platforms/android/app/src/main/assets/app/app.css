@@ -1,5 +1,10 @@
 @import url("~/platform.css");
 
+ActionBar {
+    background-color: #405EF5;
+    color: white;
+}
+
 Page {
     background-color: white;
     font-size: 15;
@@ -24,7 +29,28 @@ Button {
 .medium-spacing {
     margin: 10;
 }
+.list-flex {
+    flex-flow: row nowrap;
+    justify-content: center;
+}
+.list-flex-child {
+    width: 50%;
+    flex-grow: 1;
+    text-align: left;
+}
+Label.list-flex-child {
+    padding-left: 20;
+}
+.delete-img {
+    flex-flow: row nowrap;
+    align-items: center;
+    justify-content: flex-end;
+}
 
-.add-bar {
+.delete-img Image {
+    display: block;
+    width: 10%;
+    height: auto;
     background-color: tomato;
+    margin-right: 20;
 }

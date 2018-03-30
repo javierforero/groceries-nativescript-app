@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/javierforero/code/Groceries2/platforms/android/app/build/intermediates/res/merged/F0/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/javierforero/.android/build-cache/80668a818d5fcf509a0b72d726dfb10ad6f88bef/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/javierforero/code/Groceries2/platforms/android/app/build/intermediates/res/merged/F0/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/javierforero/.android/build-cache/80668a818d5fcf509a0b72d726dfb10ad6f88bef/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

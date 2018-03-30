@@ -2,6 +2,7 @@ import { Component, ElementRef, OnInit, ViewChild } from "@angular/core";
 import { Grocery } from "../../shared/grocery/grocery";
 import { GroceryListService } from "../../shared/grocery/grocery-list.service";
 import { TextField } from "tns-core-modules/ui/text-field";
+import * as SocialShare from "nativescript-social-share";
 
 @Component({
     selector: "list",
@@ -57,6 +58,27 @@ export class ListComponent implements OnInit {
                     this.grocery = "";
                 }
             )
+    }
+
+    delete(grocery: Grocery) {
+      this.groceryListService.delete(grocery.id)
+          .subscribe(
+              success => {
+                  
+                  let indexDelete = this.groceryList.indexOf(grocery);
+                  this.groceryList.splice(indexDelete, 1);
+              },
+              () => {
+                 alert("could not delete");
+              });
+    }
+
+    share() {
+        let listString = this.groceryList
+            .map(grocery => grocery.name)
+            .join(", ")
+            .trim();
+        SocialShare.shareText(listString);
     }
 
 }

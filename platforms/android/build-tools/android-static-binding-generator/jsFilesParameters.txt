@@ -230,3 +230,4 @@
 /Users/javierforero/code/Groceries2/platforms/android/app/src/main/assets/app/tns_modules/nativescript-intl/nativescript-intl.js
 /Users/javierforero/code/Groceries2/platforms/android/app/src/main/assets/app/tns_modules/nativescript-intl/nativescript-intl-common.js
 /Users/javierforero/code/Groceries2/platforms/android/app/src/main/assets/app/tns_modules/nativescript-intl/index.js
+/Users/javierforero/code/Groceries2/platforms/android/app/src/main/assets/app/tns_modules/nativescript-social-share/social-share.js

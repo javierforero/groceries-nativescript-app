@@ -1,4 +1,12 @@
 TextField {
     border-width: 1;
     border-color: black;
+    padding: 2;
+}
+Image {
+    margin-bottom: 10;
+}
+
+Button, TextField {
+    margin-top: 5;
 }

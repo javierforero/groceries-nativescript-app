@@ -3,15 +3,131 @@
   <component name="ChangeListManager">
     <list default="true" id="18ee8dcc-4997-4fa7-bcbc-a2b1533111e0" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/app/app.css" afterPath="$PROJECT_DIR$/app/app.css" />
+      <change beforePath="$PROJECT_DIR$/app/main.js" afterPath="$PROJECT_DIR$/app/main.js" />
+      <change beforePath="$PROJECT_DIR$/app/main.ts" afterPath="$PROJECT_DIR$/app/main.ts" />
       <change beforePath="$PROJECT_DIR$/app/pages/list/list-common.css" afterPath="$PROJECT_DIR$/app/pages/list/list-common.css" />
       <change beforePath="$PROJECT_DIR$/app/pages/list/list.component.js" afterPath="$PROJECT_DIR$/app/pages/list/list.component.js" />
       <change beforePath="$PROJECT_DIR$/app/pages/list/list.component.ts" afterPath="$PROJECT_DIR$/app/pages/list/list.component.ts" />
       <change beforePath="$PROJECT_DIR$/app/pages/list/list.html" afterPath="$PROJECT_DIR$/app/pages/list/list.html" />
+      <change beforePath="$PROJECT_DIR$/app/pages/list/list.ios.css" afterPath="$PROJECT_DIR$/app/pages/list/list.ios.css" />
+      <change beforePath="$PROJECT_DIR$/app/pages/login/login.component.js" afterPath="$PROJECT_DIR$/app/pages/login/login.component.js" />
+      <change beforePath="$PROJECT_DIR$/app/pages/login/login.component.ts" afterPath="$PROJECT_DIR$/app/pages/login/login.component.ts" />
+      <change beforePath="$PROJECT_DIR$/app/pages/login/login.html" afterPath="$PROJECT_DIR$/app/pages/login/login.html" />
+      <change beforePath="$PROJECT_DIR$/app/platform.android.css" afterPath="$PROJECT_DIR$/app/platform.android.css" />
+      <change beforePath="$PROJECT_DIR$/app/platform.ios.css" afterPath="$PROJECT_DIR$/app/platform.ios.css" />
+      <change beforePath="$PROJECT_DIR$/app/shared/grocery/grocery-list.service.js" afterPath="$PROJECT_DIR$/app/shared/grocery/grocery-list.service.js" />
+      <change beforePath="$PROJECT_DIR$/app/shared/grocery/grocery-list.service.ts" afterPath="$PROJECT_DIR$/app/shared/grocery/grocery-list.service.ts" />
+      <change beforePath="$PROJECT_DIR$/app/shared/user/user.js" afterPath="$PROJECT_DIR$/app/shared/user/user.js" />
+      <change beforePath="$PROJECT_DIR$/app/shared/user/user.ts" afterPath="$PROJECT_DIR$/app/shared/user/user.ts" />
+      <change beforePath="$PROJECT_DIR$/app/utils/hint-util.js" afterPath="$PROJECT_DIR$/app/utils/hint-util.js" />
+      <change beforePath="$PROJECT_DIR$/app/utils/hint-util.ts" afterPath="$PROJECT_DIR$/app/utils/hint-util.ts" />
+      <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/.gradle/4.1/fileContent/fileContent.lock" afterPath="$PROJECT_DIR$/platforms/android/.gradle/4.1/fileContent/fileContent.lock" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/.gradle/4.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/platforms/android/.gradle/4.1/fileHashes/fileHashes.bin" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/.gradle/4.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/platforms/android/.gradle/4.1/fileHashes/fileHashes.lock" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/.gradle/4.1/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/platforms/android/.gradle/4.1/taskHistory/fileSnapshots.bin" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/.gradle/4.1/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/platforms/android/.gradle/4.1/taskHistory/taskHistory.bin" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/.gradle/4.1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/platforms/android/.gradle/4.1/taskHistory/taskHistory.lock" />
       <change beforePath="$PROJECT_DIR$/platforms/android/.nsprepareinfo" afterPath="$PROJECT_DIR$/platforms/android/.nsprepareinfo" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/app.css" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/app.css" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/pages/list/list-common.css" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/pages/list/list-common.css" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/pages/list/list.component.js" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/pages/list/list.component.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/pages/list/list.component.ts" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/pages/list/list.component.ts" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/pages/list/list.html" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/pages/list/list.html" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/pages/login/login-common.css" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/pages/login/login-common.css" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/pages/login/login.component.js" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/pages/login/login.component.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/pages/login/login.component.ts" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/pages/login/login.component.ts" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/pages/login/login.html" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/pages/login/login.html" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/shared/grocery/grocery-list.service.js" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/shared/grocery/grocery-list.service.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/shared/grocery/grocery-list.service.ts" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/shared/grocery/grocery-list.service.ts" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/shared/grocery/grocery.js" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/shared/grocery/grocery.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/shared/grocery/grocery.ts" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/shared/grocery/grocery.ts" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/shared/user/user.js" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/shared/user/user.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/shared/user/user.ts" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/shared/user/user.ts" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/incremental/packageDebug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/incremental/packageDebug/file-input-save-data.txt" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/outputs/apk/.nsbuildinfo" afterPath="$PROJECT_DIR$/platforms/android/app/build/outputs/apk/.nsbuildinfo" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/outputs/apk/Groceries2-debug.apk" afterPath="$PROJECT_DIR$/platforms/android/app/build/outputs/apk/Groceries2-debug.apk" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/metadata/output/assets/metadata/treeNodeStream.dat" afterPath="$PROJECT_DIR$/platforms/android/app/metadata/output/assets/metadata/treeNodeStream.dat" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/metadata/output/assets/metadata/treeStringsStream.dat" afterPath="$PROJECT_DIR$/platforms/android/app/metadata/output/assets/metadata/treeStringsStream.dat" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/metadata/output/assets/metadata/treeValueStream.dat" afterPath="$PROJECT_DIR$/platforms/android/app/metadata/output/assets/metadata/treeValueStream.dat" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/app.css" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/app.css" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/main.js" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/main.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/main.ts" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/main.ts" />
       <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/pages/list/list-common.css" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/pages/list/list-common.css" />
       <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/pages/list/list.component.js" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/pages/list/list.component.js" />
       <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/pages/list/list.component.ts" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/pages/list/list.component.ts" />
       <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/pages/list/list.html" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/pages/list/list.html" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/pages/login/login.component.js" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/pages/login/login.component.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/pages/login/login.component.ts" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/pages/login/login.component.ts" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/pages/login/login.html" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/pages/login/login.html" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/platform.css" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/platform.css" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/shared/grocery/grocery-list.service.js" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/shared/grocery/grocery-list.service.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/shared/grocery/grocery-list.service.ts" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/shared/grocery/grocery-list.service.ts" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/shared/user/user.js" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/shared/user/user.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/shared/user/user.ts" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/shared/user/user.ts" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/utils/hint-util.js" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/utils/hint-util.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/utils/hint-util.ts" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/utils/hint-util.ts" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/metadata/treeNodeStream.dat" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/metadata/treeNodeStream.dat" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/metadata/treeStringsStream.dat" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/metadata/treeStringsStream.dat" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/metadata/treeValueStream.dat" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/metadata/treeValueStream.dat" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/build-tools/android-static-binding-generator/bindings.txt" afterPath="$PROJECT_DIR$/platforms/android/build-tools/android-static-binding-generator/bindings.txt" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/build-tools/android-static-binding-generator/jsFilesParameters.txt" afterPath="$PROJECT_DIR$/platforms/android/build-tools/android-static-binding-generator/jsFilesParameters.txt" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/prepared-platforms.json" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/prepared-platforms.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/dependencies.json" afterPath="$PROJECT_DIR$/platforms/android/dependencies.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/.nsprepareinfo" afterPath="$PROJECT_DIR$/platforms/ios/.nsprepareinfo" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/Groceries2/app/app.css" afterPath="$PROJECT_DIR$/platforms/ios/Groceries2/app/app.css" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/Groceries2/app/main.js" afterPath="$PROJECT_DIR$/platforms/ios/Groceries2/app/main.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/Groceries2/app/main.ts" afterPath="$PROJECT_DIR$/platforms/ios/Groceries2/app/main.ts" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/Groceries2/app/pages/list/list-common.css" afterPath="$PROJECT_DIR$/platforms/ios/Groceries2/app/pages/list/list-common.css" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/Groceries2/app/pages/list/list.component.js" afterPath="$PROJECT_DIR$/platforms/ios/Groceries2/app/pages/list/list.component.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/Groceries2/app/pages/list/list.component.ts" afterPath="$PROJECT_DIR$/platforms/ios/Groceries2/app/pages/list/list.component.ts" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/Groceries2/app/pages/list/list.css" afterPath="$PROJECT_DIR$/platforms/ios/Groceries2/app/pages/list/list.css" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/Groceries2/app/pages/list/list.html" afterPath="$PROJECT_DIR$/platforms/ios/Groceries2/app/pages/list/list.html" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/Groceries2/app/pages/login/login.component.js" afterPath="$PROJECT_DIR$/platforms/ios/Groceries2/app/pages/login/login.component.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/Groceries2/app/pages/login/login.component.ts" afterPath="$PROJECT_DIR$/platforms/ios/Groceries2/app/pages/login/login.component.ts" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/Groceries2/app/pages/login/login.html" afterPath="$PROJECT_DIR$/platforms/ios/Groceries2/app/pages/login/login.html" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/Groceries2/app/platform.css" afterPath="$PROJECT_DIR$/platforms/ios/Groceries2/app/platform.css" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/Groceries2/app/shared/grocery/grocery-list.service.js" afterPath="$PROJECT_DIR$/platforms/ios/Groceries2/app/shared/grocery/grocery-list.service.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/Groceries2/app/shared/grocery/grocery-list.service.ts" afterPath="$PROJECT_DIR$/platforms/ios/Groceries2/app/shared/grocery/grocery-list.service.ts" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/Groceries2/app/shared/user/user.js" afterPath="$PROJECT_DIR$/platforms/ios/Groceries2/app/shared/user/user.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/Groceries2/app/shared/user/user.ts" afterPath="$PROJECT_DIR$/platforms/ios/Groceries2/app/shared/user/user.ts" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/Groceries2/app/utils/hint-util.js" afterPath="$PROJECT_DIR$/platforms/ios/Groceries2/app/utils/hint-util.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/Groceries2/app/utils/hint-util.ts" afterPath="$PROJECT_DIR$/platforms/ios/Groceries2/app/utils/hint-util.ts" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/Groceries2.build/Debug-iphonesimulator/Groceries2.build/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib" afterPath="$PROJECT_DIR$/platforms/ios/build/Groceries2.build/Debug-iphonesimulator/Groceries2.build/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/Groceries2.build/Debug-iphonesimulator/Groceries2.build/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib" afterPath="$PROJECT_DIR$/platforms/ios/build/Groceries2.build/Debug-iphonesimulator/Groceries2.build/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/Groceries2.build/Debug-iphonesimulator/Groceries2.build/Objects-normal/i386/Groceries2" afterPath="$PROJECT_DIR$/platforms/ios/build/Groceries2.build/Debug-iphonesimulator/Groceries2.build/Objects-normal/i386/Groceries2" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/Groceries2.build/Debug-iphonesimulator/Groceries2.build/Objects-normal/x86_64/Groceries2" afterPath="$PROJECT_DIR$/platforms/ios/build/Groceries2.build/Debug-iphonesimulator/Groceries2.build/Objects-normal/x86_64/Groceries2" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/Groceries2.build/Debug-iphonesimulator/Groceries2.build/Objects-normal/x86_64/Groceries2_dependency_info.dat" afterPath="$PROJECT_DIR$/platforms/ios/build/Groceries2.build/Debug-iphonesimulator/Groceries2.build/Objects-normal/x86_64/Groceries2_dependency_info.dat" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/Groceries2.build/Debug-iphonesimulator/Groceries2.build/dgph" afterPath="$PROJECT_DIR$/platforms/ios/build/Groceries2.build/Debug-iphonesimulator/Groceries2.build/dgph" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/.nsbuildinfo" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/.nsbuildinfo" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app.dSYM/Contents/Resources/DWARF/Groceries2" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app.dSYM/Contents/Resources/DWARF/Groceries2" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/Assets.car" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/Assets.car" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/Groceries2" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/Groceries2" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/_CodeSignature/CodeResources" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/_CodeSignature/CodeResources" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/app.css" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/app.css" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/pages/list/list-common.css" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/pages/list/list-common.css" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/pages/list/list.component.js" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/pages/list/list.component.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/pages/list/list.component.ts" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/pages/list/list.component.ts" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/pages/list/list.html" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/pages/list/list.html" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/pages/login/login-common.css" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/pages/login/login-common.css" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/pages/login/login.component.js" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/pages/login/login.component.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/pages/login/login.component.ts" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/pages/login/login.component.ts" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/pages/login/login.html" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/pages/login/login.html" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/platform.css" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/platform.css" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/shared/grocery/grocery-list.service.js" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/shared/grocery/grocery-list.service.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/shared/grocery/grocery-list.service.ts" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/shared/grocery/grocery-list.service.ts" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/shared/grocery/grocery.js" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/shared/grocery/grocery.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/shared/grocery/grocery.ts" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/shared/grocery/grocery.ts" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/shared/user/user.js" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/shared/user/user.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/shared/user/user.ts" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/shared/user/user.ts" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/metadata-i386.bin" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/metadata-i386.bin" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/metadata-x86_64.bin" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/metadata-x86_64.bin" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/prepared-platforms.json" afterPath="$PROJECT_DIR$/platforms/ios/build/prepared-platforms.json" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,28 +141,18 @@
       <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/pages/login/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
+            <state relative-caret-position="120">
+              <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login-common.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/pages/login/login-common.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="list.component.ts" pinned="false" current-in-tab="false">
+      <file leaf-file-name="list.component.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/pages/list/list.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="436">
-              <caret line="31" column="39" lean-forward="false" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+            <state relative-caret-position="407">
+              <caret line="66" column="18" lean-forward="false" selection-start-line="66" selection-start-column="18" selection-end-line="66" selection-end-column="18" />
               <folding>
                 <element signature="e#0#73#0" expanded="true" />
               </folding>
@@ -54,54 +160,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="list.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="list.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/pages/list/list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="20" column="4" lean-forward="false" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+            <state relative-caret-position="129">
+              <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="list-common.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/pages/list/list-common.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="user.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/shared/user/user.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="grocery.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/shared/grocery/grocery.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24">
-              <caret line="1" column="57" lean-forward="false" selection-start-line="1" selection-start-column="57" selection-end-line="1" selection-end-column="57" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="grocery-list.service.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/shared/grocery/grocery-list.service.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1128">
-              <caret line="54" column="13" lean-forward="false" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
-              <folding>
-                <element signature="e#0#43#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -109,8 +173,8 @@
       <file leaf-file-name="login.component.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/pages/login/login.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1512">
-              <caret line="69" column="9" lean-forward="false" selection-start-line="69" selection-start-column="9" selection-end-line="69" selection-end-column="9" />
+            <state relative-caret-position="202">
+              <caret line="74" column="11" lean-forward="false" selection-start-line="74" selection-start-column="11" selection-end-line="74" selection-end-column="11" />
               <folding>
                 <element signature="e#0#73#0" expanded="true" />
               </folding>
@@ -118,11 +182,63 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="main.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/main.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#76#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="grocery-list.service.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/shared/grocery/grocery-list.service.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="103">
+              <caret line="41" column="46" lean-forward="false" selection-start-line="41" selection-start-column="46" selection-end-line="41" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="platform.ios.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/platform.ios.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="5" column="7" lean-forward="false" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list.ios.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/pages/list/list.ios.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="platform.android.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/platform.android.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="app.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/app.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+            <state relative-caret-position="139">
+              <caret line="37" column="17" lean-forward="false" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -133,10 +249,16 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>config</find>
+      <find>tomato</find>
+      <find>.add_bar</find>
+      <find>.add-bar</find>
     </findStrings>
     <replaceStrings>
       <replace />
     </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/node_modules</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -144,22 +266,27 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/platform.android.css" />
-        <option value="$PROJECT_DIR$/app/shared/user/user.ts" />
         <option value="$PROJECT_DIR$/app/app.module.ts" />
         <option value="$PROJECT_DIR$/app/app.component.ts" />
         <option value="$PROJECT_DIR$/app/app.routing.ts" />
         <option value="$PROJECT_DIR$/app/shared/user/user.service.ts" />
         <option value="$PROJECT_DIR$/app/pages/login/login-common.css" />
-        <option value="$PROJECT_DIR$/app/platform.ios.css" />
+        <option value="$PROJECT_DIR$/app/shared/grocery/grocery.ts" />
+        <option value="$PROJECT_DIR$/app/shared/user/user.ts" />
+        <option value="$PROJECT_DIR$/platforms/ios/Groceries2/app/pages/list/list-common.css" />
+        <option value="$PROJECT_DIR$/platforms/ios/Groceries2/app/app.css" />
+        <option value="$PROJECT_DIR$/app/pages/list/list-common.css" />
+        <option value="$PROJECT_DIR$/app/utils/hint-util.ts" />
         <option value="$PROJECT_DIR$/app/pages/login/login.html" />
         <option value="$PROJECT_DIR$/app/pages/login/login.component.ts" />
-        <option value="$PROJECT_DIR$/app/shared/grocery/grocery.ts" />
-        <option value="$PROJECT_DIR$/app/app.css" />
+        <option value="$PROJECT_DIR$/app/main.ts" />
+        <option value="$PROJECT_DIR$/app/platform.android.css" />
+        <option value="$PROJECT_DIR$/app/pages/list/list.ios.css" />
+        <option value="$PROJECT_DIR$/app/platform.ios.css" />
         <option value="$PROJECT_DIR$/app/shared/grocery/grocery-list.service.ts" />
-        <option value="$PROJECT_DIR$/app/pages/list/list-common.css" />
-        <option value="$PROJECT_DIR$/app/pages/list/list.component.ts" />
+        <option value="$PROJECT_DIR$/app/app.css" />
         <option value="$PROJECT_DIR$/app/pages/list/list.html" />
+        <option value="$PROJECT_DIR$/app/pages/list/list.component.ts" />
       </list>
     </option>
   </component>
@@ -171,8 +298,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="40" />
-    <option name="y" value="23" />
+    <option name="x" value="119" />
+    <option name="y" value="29" />
     <option name="width" value="1400" />
     <option name="height" value="760" />
   </component>
@@ -192,8 +319,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -210,26 +335,28 @@
               <item name="Groceries2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Groceries2" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="shared" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="App_Resources" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="Groceries2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Groceries2" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="shared" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="grocery" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="App_Resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="iOS" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="SearchEverywhereHistoryKey" value=".add-bar&#9;null&#9;null&#10;grocery-list&#9;FILE&#9;file:///Users/javierforero/code/Groceries2/app/shared/grocery/grocery-list.service.ts&#10;grocery.ts&#9;FILE&#9;file:///Users/javierforero/code/Groceries2/app/shared/grocery/grocery.ts&#10;tns-core&#9;FILE&#9;file:///Users/javierforero/code/Groceries2/platforms/ios/Groceries2/app/tns_modules/tns-core-modules&#10;app mo&#9;FILE&#9;file:///Users/javierforero/code/Groceries2/app/app.module.ts&#10;config&#9;null&#9;null" />
+    <property name="SearchEverywhereHistoryKey" value="android.&#9;FILE&#9;file:///Users/javierforero/code/Groceries2/app/platform.android.css&#10;list.ios.cs&#9;FILE&#9;file:///Users/javierforero/code/Groceries2/app/pages/list/list.ios.css&#10;platform.ios&#9;FILE&#9;file:///Users/javierforero/code/Groceries2/app/platform.ios.css&#10;main.ts&#9;FILE&#9;file:///Users/javierforero/code/Groceries2/app/main.ts&#10;hint-&#9;FILE&#9;file:///Users/javierforero/code/Groceries2/app/utils/hint-util.ts&#10;.add-bar&#9;null&#9;null&#10;grocery-list&#9;FILE&#9;file:///Users/javierforero/code/Groceries2/app/shared/grocery/grocery-list.service.ts&#10;grocery.ts&#9;FILE&#9;file:///Users/javierforero/code/Groceries2/app/shared/grocery/grocery.ts&#10;tns-core&#9;FILE&#9;file:///Users/javierforero/code/Groceries2/platforms/ios/Groceries2/app/tns_modules/tns-core-modules&#10;app mo&#9;FILE&#9;file:///Users/javierforero/code/Groceries2/app/app.module.ts&#10;config&#9;null&#9;null" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -266,37 +393,38 @@
       <workItem from="1522259896078" duration="9997000" />
       <workItem from="1522285627702" duration="816000" />
       <workItem from="1522333002164" duration="10711000" />
-      <workItem from="1522360973324" duration="723000" />
+      <workItem from="1522360973324" duration="844000" />
+      <workItem from="1522423626705" duration="8308000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30347000" />
+    <option name="totallyTimeSpent" value="38776000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="40" y="23" width="1400" height="760" extended-state="0" />
+    <frame x="119" y="29" width="1400" height="760" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26857144" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914925" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914925" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22785714" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32914925" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -316,23 +444,13 @@
         <option value="$PROJECT_DIR$/app/shared/user/user.js" />
         <option value="$PROJECT_DIR$/app/shared/grocery/grocery.js" />
         <option value="$PROJECT_DIR$/app/shared/grocery/grocery-list.service.js" />
-        <option value="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/app.routing.js" />
-        <option value="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/app.component.js" />
-        <option value="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/app.module.js" />
-        <option value="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/main.js" />
-        <option value="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/pages/list/list.component.js" />
-        <option value="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/pages/login/login.component.js" />
         <option value="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/utils/hint-util.js" />
+        <option value="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/main.js" />
         <option value="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/utils/status-bar-util.js" />
         <option value="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/shared/config.js" />
-        <option value="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/shared/user/user.service.js" />
-        <option value="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/shared/user/user.js" />
-        <option value="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/shared/grocery/grocery.js" />
-        <option value="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/shared/grocery/grocery-list.service.js" />
-        <option value="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/app.routing.js" />
+        <option value="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/pages/login/login.component.js" />
         <option value="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/app.module.js" />
         <option value="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/main.js" />
-        <option value="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/app.component.js" />
       </list>
     </option>
   </component>
@@ -346,64 +464,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/pages/login/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="14" lean-forward="false" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/shared/user/user.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/pages/login/login-common.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/app.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="8" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/platform.ios.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="1" lean-forward="false" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/platform.android.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="10" column="2" lean-forward="false" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/app.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/shared/user/user.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -620,13 +680,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/platform.android.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/app.routing.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -634,41 +687,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/platform.ios.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/pages/login/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/pages/login/login-common.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
+        <state relative-caret-position="0">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/shared/user/user.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/app.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
           <folding />
         </state>
       </provider>
@@ -681,49 +703,152 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/shared/grocery/grocery-list.service.ts">
+    <entry file="file://$PROJECT_DIR$/node_modules/email-validator/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1128">
-          <caret line="54" column="13" lean-forward="false" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/shared/user/user.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="20" column="22" lean-forward="false" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/ios/Groceries2/app/pages/list/list-common.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="10" lean-forward="false" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/ios/Groceries2/app/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="13" column="11" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/pages/list/list-common.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/utils/hint-util.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="54" lean-forward="false" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
           <folding>
-            <element signature="e#0#43#0" expanded="true" />
+            <element signature="e#0#30#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/pages/login/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/platform.android.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/pages/list/list.ios.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/platform.ios.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="7" lean-forward="false" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/App_Resources/iOS/delete@2x.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="37" column="17" lean-forward="false" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/pages/login/login.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1512">
-          <caret line="69" column="9" lean-forward="false" selection-start-line="69" selection-start-column="9" selection-end-line="69" selection-end-column="9" />
+        <state relative-caret-position="202">
+          <caret line="74" column="11" lean-forward="false" selection-start-line="74" selection-start-column="11" selection-end-line="74" selection-end-column="11" />
           <folding>
             <element signature="e#0#73#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/pages/list/list-common.css">
+    <entry file="file://$PROJECT_DIR$/app/main.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        <state relative-caret-position="120">
+          <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#76#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/shared/grocery/grocery-list.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="41" column="46" lean-forward="false" selection-start-line="41" selection-start-column="46" selection-end-line="41" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/pages/list/list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/pages/list/list.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="31" column="39" lean-forward="false" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+        <state relative-caret-position="407">
+          <caret line="66" column="18" lean-forward="false" selection-start-line="66" selection-start-column="18" selection-end-line="66" selection-end-column="18" />
           <folding>
             <element signature="e#0#73#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/pages/list/list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="20" column="4" lean-forward="false" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>

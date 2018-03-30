@@ -5,6 +5,8 @@ import { UserService } from "../../shared/user/user.service";
 import { Page } from "ui/page";
 import { Color } from "color";
 import { View } from "ui/core/view";
+import { setHintColor} from "../../utils/hint-util";
+import { TextField } from "tns-core-modules/ui/text-field";
 
 @Component({
     selector: "my-app",
@@ -13,11 +15,14 @@ import { View } from "ui/core/view";
     styleUrls: ["pages/login/login-common.css", "pages/login/login.css"]
 })
 export class LoginComponent implements OnInit {
-    email="";
+
     user: User;
     isLoggingIn:boolean = true;
 
     @ViewChild("container") container: ElementRef;
+    @ViewChild("email") email: ElementRef;
+    @ViewChild("password") password: ElementRef;
+
 
     constructor(private router: Router, private userService: UserService, private page: Page) {
         this.user = new User();
@@ -26,6 +31,10 @@ export class LoginComponent implements OnInit {
     }
 
     submit() {
+        if(!this.user.isValidEmail()) {
+            alert("Please enter a valid email address");
+            return;
+        }
         if(this.isLoggingIn) {
             this.logIn();
         } else {
@@ -58,12 +67,12 @@ export class LoginComponent implements OnInit {
 
     toggleLogIn() {
         this.isLoggingIn = !this.isLoggingIn;
+
         let container = <View>this.container.nativeElement;
         container.animate({
             backgroundColor: this.isLoggingIn ? new Color("white") : new Color("#2763F5"),
             duration: 200
         });
-
         if(this.isLoggingIn) {
             this.page.color = new Color("black");
         } else {
@@ -71,6 +80,20 @@ export class LoginComponent implements OnInit {
         }
 
     }
+
+    setTextFieldColors() {
+        let emailTextField = <TextField>this.email.nativeElement;
+        let passwordTextField = <TextField>this.password.nativeElement;
+
+        let mainTextColor = new Color(this.isLoggingIn ? "black" : "white");
+        emailTextField.color = mainTextColor;
+        passwordTextField.color = mainTextColor;
+
+        let hintColor = new Color(this.isLoggingIn ? "black" : "white");
+        setHintColor({ view: emailTextField, color: hintColor });
+        setHintColor({ view: passwordTextField, color: hintColor });
+    }
+
 
     ngOnInit() {
         this.page.actionBarHidden = true;

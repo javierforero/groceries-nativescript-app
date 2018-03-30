@@ -12,9 +12,9 @@ ListView {
 }
 
 .add-bar {
-  background-color: tomato;
+  background-color: whitesmoke;
   padding: 5 10;
-  color: white;
+  color: black;
   font-size: 30;
   text-decoration: none;
 }
@@ -25,5 +25,5 @@ ListView {
   margin-right: 5;
 }
 TextField {
-  color: white;
+  color: black;
 }

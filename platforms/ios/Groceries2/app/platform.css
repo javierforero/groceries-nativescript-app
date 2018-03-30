@@ -10,3 +10,7 @@ Image {
 Button, TextField {
     margin-top: 5;
 }
+
+Page {
+    margin-top: -50;
+}

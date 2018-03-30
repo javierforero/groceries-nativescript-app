@@ -1,3 +1,9 @@
+<ActionBar title="Groceries Mobile App">
+    <ActionItem text="Share" (tap)="share()"
+                android.systemIcon="ic_menu_share_holo_dark"
+                ios.systemIcon="9"
+                ios.position="right"></ActionItem>
+</ActionBar>
 <GridLayout rows="auto, *">
 
     <GridLayout row="0" columns="*, auto" class="add-bar">
@@ -10,7 +16,12 @@
 
     <ListView [items]="groceryList" row="1" class="small-spacing" [class.visible] = "listLoaded">
         <ng-template let-item="item">
-            <Label [text]="item.name" class="medium-spacing"></Label>
+            <FlexboxLayout class="list-flex">
+                <Label [text]="item.name" class="medium-spacing list-flex-child"></Label>
+                <FlexBoxLayout class="list-flex-child delete-img">
+                    <Image src="res://delete" (tap)="delete(item)"></Image>
+                </FlexBoxLayout>
+            </FlexboxLayout>
         </ng-template>
     </ListView>
     <ActivityIndicator [busy]="isLoading"
