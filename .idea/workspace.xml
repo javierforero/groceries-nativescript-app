@@ -2,132 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18ee8dcc-4997-4fa7-bcbc-a2b1533111e0" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/app/app.css" afterPath="$PROJECT_DIR$/app/app.css" />
-      <change beforePath="$PROJECT_DIR$/app/main.js" afterPath="$PROJECT_DIR$/app/main.js" />
-      <change beforePath="$PROJECT_DIR$/app/main.ts" afterPath="$PROJECT_DIR$/app/main.ts" />
-      <change beforePath="$PROJECT_DIR$/app/pages/list/list-common.css" afterPath="$PROJECT_DIR$/app/pages/list/list-common.css" />
-      <change beforePath="$PROJECT_DIR$/app/pages/list/list.component.js" afterPath="$PROJECT_DIR$/app/pages/list/list.component.js" />
       <change beforePath="$PROJECT_DIR$/app/pages/list/list.component.ts" afterPath="$PROJECT_DIR$/app/pages/list/list.component.ts" />
-      <change beforePath="$PROJECT_DIR$/app/pages/list/list.html" afterPath="$PROJECT_DIR$/app/pages/list/list.html" />
-      <change beforePath="$PROJECT_DIR$/app/pages/list/list.ios.css" afterPath="$PROJECT_DIR$/app/pages/list/list.ios.css" />
-      <change beforePath="$PROJECT_DIR$/app/pages/login/login.component.js" afterPath="$PROJECT_DIR$/app/pages/login/login.component.js" />
-      <change beforePath="$PROJECT_DIR$/app/pages/login/login.component.ts" afterPath="$PROJECT_DIR$/app/pages/login/login.component.ts" />
-      <change beforePath="$PROJECT_DIR$/app/pages/login/login.html" afterPath="$PROJECT_DIR$/app/pages/login/login.html" />
-      <change beforePath="$PROJECT_DIR$/app/platform.android.css" afterPath="$PROJECT_DIR$/app/platform.android.css" />
-      <change beforePath="$PROJECT_DIR$/app/platform.ios.css" afterPath="$PROJECT_DIR$/app/platform.ios.css" />
-      <change beforePath="$PROJECT_DIR$/app/shared/grocery/grocery-list.service.js" afterPath="$PROJECT_DIR$/app/shared/grocery/grocery-list.service.js" />
-      <change beforePath="$PROJECT_DIR$/app/shared/grocery/grocery-list.service.ts" afterPath="$PROJECT_DIR$/app/shared/grocery/grocery-list.service.ts" />
-      <change beforePath="$PROJECT_DIR$/app/shared/user/user.js" afterPath="$PROJECT_DIR$/app/shared/user/user.js" />
-      <change beforePath="$PROJECT_DIR$/app/shared/user/user.ts" afterPath="$PROJECT_DIR$/app/shared/user/user.ts" />
-      <change beforePath="$PROJECT_DIR$/app/utils/hint-util.js" afterPath="$PROJECT_DIR$/app/utils/hint-util.js" />
-      <change beforePath="$PROJECT_DIR$/app/utils/hint-util.ts" afterPath="$PROJECT_DIR$/app/utils/hint-util.ts" />
-      <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/.gradle/4.1/fileContent/fileContent.lock" afterPath="$PROJECT_DIR$/platforms/android/.gradle/4.1/fileContent/fileContent.lock" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/.gradle/4.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/platforms/android/.gradle/4.1/fileHashes/fileHashes.bin" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/.gradle/4.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/platforms/android/.gradle/4.1/fileHashes/fileHashes.lock" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/.gradle/4.1/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/platforms/android/.gradle/4.1/taskHistory/fileSnapshots.bin" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/.gradle/4.1/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/platforms/android/.gradle/4.1/taskHistory/taskHistory.bin" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/.gradle/4.1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/platforms/android/.gradle/4.1/taskHistory/taskHistory.lock" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/.nsprepareinfo" afterPath="$PROJECT_DIR$/platforms/android/.nsprepareinfo" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/app.css" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/app.css" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/pages/list/list-common.css" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/pages/list/list-common.css" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/pages/list/list.component.js" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/pages/list/list.component.js" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/pages/list/list.component.ts" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/pages/list/list.component.ts" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/pages/list/list.html" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/pages/list/list.html" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/pages/login/login-common.css" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/pages/login/login-common.css" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/pages/login/login.component.js" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/pages/login/login.component.js" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/pages/login/login.component.ts" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/pages/login/login.component.ts" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/pages/login/login.html" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/pages/login/login.html" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/shared/grocery/grocery-list.service.js" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/shared/grocery/grocery-list.service.js" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/shared/grocery/grocery-list.service.ts" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/shared/grocery/grocery-list.service.ts" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/shared/grocery/grocery.js" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/shared/grocery/grocery.js" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/shared/grocery/grocery.ts" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/shared/grocery/grocery.ts" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/shared/user/user.js" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/shared/user/user.js" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/shared/user/user.ts" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/app/shared/user/user.ts" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/incremental/packageDebug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/incremental/packageDebug/file-input-save-data.txt" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/outputs/apk/.nsbuildinfo" afterPath="$PROJECT_DIR$/platforms/android/app/build/outputs/apk/.nsbuildinfo" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/outputs/apk/Groceries2-debug.apk" afterPath="$PROJECT_DIR$/platforms/android/app/build/outputs/apk/Groceries2-debug.apk" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/metadata/output/assets/metadata/treeNodeStream.dat" afterPath="$PROJECT_DIR$/platforms/android/app/metadata/output/assets/metadata/treeNodeStream.dat" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/metadata/output/assets/metadata/treeStringsStream.dat" afterPath="$PROJECT_DIR$/platforms/android/app/metadata/output/assets/metadata/treeStringsStream.dat" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/metadata/output/assets/metadata/treeValueStream.dat" afterPath="$PROJECT_DIR$/platforms/android/app/metadata/output/assets/metadata/treeValueStream.dat" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/app.css" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/app.css" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/main.js" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/main.js" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/main.ts" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/main.ts" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/pages/list/list-common.css" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/pages/list/list-common.css" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/pages/list/list.component.js" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/pages/list/list.component.js" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/pages/list/list.component.ts" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/pages/list/list.component.ts" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/pages/list/list.html" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/pages/list/list.html" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/pages/login/login.component.js" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/pages/login/login.component.js" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/pages/login/login.component.ts" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/pages/login/login.component.ts" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/pages/login/login.html" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/pages/login/login.html" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/platform.css" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/platform.css" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/shared/grocery/grocery-list.service.js" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/shared/grocery/grocery-list.service.js" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/shared/grocery/grocery-list.service.ts" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/shared/grocery/grocery-list.service.ts" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/shared/user/user.js" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/shared/user/user.js" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/shared/user/user.ts" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/shared/user/user.ts" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/utils/hint-util.js" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/utils/hint-util.js" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/utils/hint-util.ts" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/utils/hint-util.ts" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/metadata/treeNodeStream.dat" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/metadata/treeNodeStream.dat" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/metadata/treeStringsStream.dat" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/metadata/treeStringsStream.dat" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/metadata/treeValueStream.dat" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/metadata/treeValueStream.dat" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/build-tools/android-static-binding-generator/bindings.txt" afterPath="$PROJECT_DIR$/platforms/android/build-tools/android-static-binding-generator/bindings.txt" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/build-tools/android-static-binding-generator/jsFilesParameters.txt" afterPath="$PROJECT_DIR$/platforms/android/build-tools/android-static-binding-generator/jsFilesParameters.txt" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/build/intermediates/prepared-platforms.json" afterPath="$PROJECT_DIR$/platforms/android/build/intermediates/prepared-platforms.json" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/dependencies.json" afterPath="$PROJECT_DIR$/platforms/android/dependencies.json" />
-      <change beforePath="$PROJECT_DIR$/platforms/ios/.nsprepareinfo" afterPath="$PROJECT_DIR$/platforms/ios/.nsprepareinfo" />
-      <change beforePath="$PROJECT_DIR$/platforms/ios/Groceries2/app/app.css" afterPath="$PROJECT_DIR$/platforms/ios/Groceries2/app/app.css" />
-      <change beforePath="$PROJECT_DIR$/platforms/ios/Groceries2/app/main.js" afterPath="$PROJECT_DIR$/platforms/ios/Groceries2/app/main.js" />
-      <change beforePath="$PROJECT_DIR$/platforms/ios/Groceries2/app/main.ts" afterPath="$PROJECT_DIR$/platforms/ios/Groceries2/app/main.ts" />
-      <change beforePath="$PROJECT_DIR$/platforms/ios/Groceries2/app/pages/list/list-common.css" afterPath="$PROJECT_DIR$/platforms/ios/Groceries2/app/pages/list/list-common.css" />
-      <change beforePath="$PROJECT_DIR$/platforms/ios/Groceries2/app/pages/list/list.component.js" afterPath="$PROJECT_DIR$/platforms/ios/Groceries2/app/pages/list/list.component.js" />
-      <change beforePath="$PROJECT_DIR$/platforms/ios/Groceries2/app/pages/list/list.component.ts" afterPath="$PROJECT_DIR$/platforms/ios/Groceries2/app/pages/list/list.component.ts" />
-      <change beforePath="$PROJECT_DIR$/platforms/ios/Groceries2/app/pages/list/list.css" afterPath="$PROJECT_DIR$/platforms/ios/Groceries2/app/pages/list/list.css" />
-      <change beforePath="$PROJECT_DIR$/platforms/ios/Groceries2/app/pages/list/list.html" afterPath="$PROJECT_DIR$/platforms/ios/Groceries2/app/pages/list/list.html" />
-      <change beforePath="$PROJECT_DIR$/platforms/ios/Groceries2/app/pages/login/login.component.js" afterPath="$PROJECT_DIR$/platforms/ios/Groceries2/app/pages/login/login.component.js" />
-      <change beforePath="$PROJECT_DIR$/platforms/ios/Groceries2/app/pages/login/login.component.ts" afterPath="$PROJECT_DIR$/platforms/ios/Groceries2/app/pages/login/login.component.ts" />
-      <change beforePath="$PROJECT_DIR$/platforms/ios/Groceries2/app/pages/login/login.html" afterPath="$PROJECT_DIR$/platforms/ios/Groceries2/app/pages/login/login.html" />
-      <change beforePath="$PROJECT_DIR$/platforms/ios/Groceries2/app/platform.css" afterPath="$PROJECT_DIR$/platforms/ios/Groceries2/app/platform.css" />
-      <change beforePath="$PROJECT_DIR$/platforms/ios/Groceries2/app/shared/grocery/grocery-list.service.js" afterPath="$PROJECT_DIR$/platforms/ios/Groceries2/app/shared/grocery/grocery-list.service.js" />
-      <change beforePath="$PROJECT_DIR$/platforms/ios/Groceries2/app/shared/grocery/grocery-list.service.ts" afterPath="$PROJECT_DIR$/platforms/ios/Groceries2/app/shared/grocery/grocery-list.service.ts" />
-      <change beforePath="$PROJECT_DIR$/platforms/ios/Groceries2/app/shared/user/user.js" afterPath="$PROJECT_DIR$/platforms/ios/Groceries2/app/shared/user/user.js" />
-      <change beforePath="$PROJECT_DIR$/platforms/ios/Groceries2/app/shared/user/user.ts" afterPath="$PROJECT_DIR$/platforms/ios/Groceries2/app/shared/user/user.ts" />
-      <change beforePath="$PROJECT_DIR$/platforms/ios/Groceries2/app/utils/hint-util.js" afterPath="$PROJECT_DIR$/platforms/ios/Groceries2/app/utils/hint-util.js" />
-      <change beforePath="$PROJECT_DIR$/platforms/ios/Groceries2/app/utils/hint-util.ts" afterPath="$PROJECT_DIR$/platforms/ios/Groceries2/app/utils/hint-util.ts" />
-      <change beforePath="$PROJECT_DIR$/platforms/ios/build/Groceries2.build/Debug-iphonesimulator/Groceries2.build/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib" afterPath="$PROJECT_DIR$/platforms/ios/build/Groceries2.build/Debug-iphonesimulator/Groceries2.build/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib" />
-      <change beforePath="$PROJECT_DIR$/platforms/ios/build/Groceries2.build/Debug-iphonesimulator/Groceries2.build/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib" afterPath="$PROJECT_DIR$/platforms/ios/build/Groceries2.build/Debug-iphonesimulator/Groceries2.build/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib" />
-      <change beforePath="$PROJECT_DIR$/platforms/ios/build/Groceries2.build/Debug-iphonesimulator/Groceries2.build/Objects-normal/i386/Groceries2" afterPath="$PROJECT_DIR$/platforms/ios/build/Groceries2.build/Debug-iphonesimulator/Groceries2.build/Objects-normal/i386/Groceries2" />
-      <change beforePath="$PROJECT_DIR$/platforms/ios/build/Groceries2.build/Debug-iphonesimulator/Groceries2.build/Objects-normal/x86_64/Groceries2" afterPath="$PROJECT_DIR$/platforms/ios/build/Groceries2.build/Debug-iphonesimulator/Groceries2.build/Objects-normal/x86_64/Groceries2" />
-      <change beforePath="$PROJECT_DIR$/platforms/ios/build/Groceries2.build/Debug-iphonesimulator/Groceries2.build/Objects-normal/x86_64/Groceries2_dependency_info.dat" afterPath="$PROJECT_DIR$/platforms/ios/build/Groceries2.build/Debug-iphonesimulator/Groceries2.build/Objects-normal/x86_64/Groceries2_dependency_info.dat" />
-      <change beforePath="$PROJECT_DIR$/platforms/ios/build/Groceries2.build/Debug-iphonesimulator/Groceries2.build/dgph" afterPath="$PROJECT_DIR$/platforms/ios/build/Groceries2.build/Debug-iphonesimulator/Groceries2.build/dgph" />
-      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/.nsbuildinfo" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/.nsbuildinfo" />
-      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app.dSYM/Contents/Resources/DWARF/Groceries2" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app.dSYM/Contents/Resources/DWARF/Groceries2" />
-      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/Assets.car" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/Assets.car" />
-      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/Groceries2" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/Groceries2" />
-      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib" />
-      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib" />
-      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/_CodeSignature/CodeResources" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/_CodeSignature/CodeResources" />
-      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/app.css" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/app.css" />
-      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/pages/list/list-common.css" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/pages/list/list-common.css" />
-      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/pages/list/list.component.js" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/pages/list/list.component.js" />
-      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/pages/list/list.component.ts" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/pages/list/list.component.ts" />
-      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/pages/list/list.html" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/pages/list/list.html" />
-      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/pages/login/login-common.css" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/pages/login/login-common.css" />
-      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/pages/login/login.component.js" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/pages/login/login.component.js" />
-      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/pages/login/login.component.ts" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/pages/login/login.component.ts" />
-      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/pages/login/login.html" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/pages/login/login.html" />
-      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/platform.css" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/platform.css" />
-      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/shared/grocery/grocery-list.service.js" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/shared/grocery/grocery-list.service.js" />
-      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/shared/grocery/grocery-list.service.ts" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/shared/grocery/grocery-list.service.ts" />
-      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/shared/grocery/grocery.js" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/shared/grocery/grocery.js" />
-      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/shared/grocery/grocery.ts" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/shared/grocery/grocery.ts" />
-      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/shared/user/user.js" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/shared/user/user.js" />
-      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/shared/user/user.ts" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Groceries2.app/app/shared/user/user.ts" />
-      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/metadata-i386.bin" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/metadata-i386.bin" />
-      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/metadata-x86_64.bin" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/metadata-x86_64.bin" />
-      <change beforePath="$PROJECT_DIR$/platforms/ios/build/prepared-platforms.json" afterPath="$PROJECT_DIR$/platforms/ios/build/prepared-platforms.json" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -138,24 +13,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/pages/login/login.html">
+      <file leaf-file-name="list.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/pages/list/list.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-              <folding />
+            <state relative-caret-position="407">
+              <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#73#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="list.component.ts" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/pages/list/list.component.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="407">
-              <caret line="66" column="18" lean-forward="false" selection-start-line="66" selection-start-column="18" selection-end-line="66" selection-end-column="18" />
-              <folding>
-                <element signature="e#0#73#0" expanded="true" />
-              </folding>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="216">
+                <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -287,6 +165,7 @@
         <option value="$PROJECT_DIR$/app/app.css" />
         <option value="$PROJECT_DIR$/app/pages/list/list.html" />
         <option value="$PROJECT_DIR$/app/pages/list/list.component.ts" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -394,12 +273,12 @@
       <workItem from="1522285627702" duration="816000" />
       <workItem from="1522333002164" duration="10711000" />
       <workItem from="1522360973324" duration="844000" />
-      <workItem from="1522423626705" duration="8308000" />
+      <workItem from="1522423626705" duration="8910000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38776000" />
+    <option name="totallyTimeSpent" value="39378000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="119" y="29" width="1400" height="760" extended-state="0" />
@@ -464,14 +343,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/shared/user/user.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/pages/login/login.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -845,10 +716,21 @@
     <entry file="file://$PROJECT_DIR$/app/pages/list/list.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="407">
-          <caret line="66" column="18" lean-forward="false" selection-start-line="66" selection-start-column="18" selection-end-line="66" selection-end-column="18" />
+          <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
           <folding>
             <element signature="e#0#73#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="216">
+            <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
